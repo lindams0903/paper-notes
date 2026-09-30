@@ -1,0 +1,5 @@
+# Only reviewed public artifacts belong in this repository.
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

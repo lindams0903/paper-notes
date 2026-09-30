@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "updated": "2026-09-30",
+  "papers": [
+    {
+      "id": "2026-sanchez-extreme-wind",
+      "title": "Statistical analysis of extreme wind events in mixed wind climate",
+      "title_zh": "混合风气候下，极端风由谁主导？",
+      "authors": [
+        "Camila Aldereguía Sánchez",
+        "Ingrid Fernández Lorenzo",
+        "Vivian B. Elena Parnás",
+        "Federica Tubino"
+      ],
+      "year": 2026,
+      "doi": "10.1016/j.jweia.2026.106580",
+      "tags": [
+        "风工程",
+        "混合风气候",
+        "极值统计",
+        "LiDAR"
+      ],
+      "public_url": "https://lindams0903.github.io/paper-notes/extreme-wind.html",
+      "source_license": "CC BY-NC-ND 4.0",
+      "source_license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ]
+}
